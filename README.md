@@ -45,7 +45,7 @@ maven-3.3.1+
 ## Compile & run
 
 ```java  
-git clone https://github.com/leonchen83/redis-rdb-cli.git
+git clone https://github.com/iris-looover/redis-rdb-cli.git
 cd redis-rdb-cli
 mvn clean install -Dmaven.test.skip=true
 cd target/redis-rdb-cli-release/redis-rdb-cli/bin
